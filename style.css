@@ -1,0 +1,37 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.navbar-brand{
+	font-size: 1.4em
+}
+
+.nav-item a, .heisen{
+	margin-left:30px;
+	text-align:left;
+}
+
+.nav-item a:hover{
+	color:#00ACC1!important;
+}
+.navbar-toggler:focus{
+	outline-color: #00ACC1;
+	color: #00ACC1;
+}
+
+.parentimg{
+	text-align:center;
+}
+
+.btn-group-vertical a, .btn-group-vertical button{
+	text-align:left;
+	padding-left:30px;
+}
+li span{
+	color:black;
+}
+li:hover{
+	color: #00ACC1;
+}
