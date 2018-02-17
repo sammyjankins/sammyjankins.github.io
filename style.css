@@ -24,6 +24,9 @@ body{
 .parentimg{
 	text-align:center;
 }
+.parentimg img{
+	border-radius:5px;
+}
 
 .btn-group-vertical a, .btn-group-vertical button{
 	text-align:left;
